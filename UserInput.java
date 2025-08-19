@@ -8,6 +8,8 @@ public class UserInput {
     
         System.out.println("Enter a number: ");
         int number = scanner.nextInt();
+
+        System.out.println ("You entered: ");
         
          System.out.println(number);
          scanner.close();
