@@ -1,0 +1,96 @@
+Below are structured **Java Constructor Practice Questions** divided into **3 levels**: Beginner, Intermediate, and Advanced.
+Each level contains **20 questions** designed to strengthen your understanding step-by-step.
+
+---
+
+# ✅ **Level 1: Beginner (20 Questions)**
+
+Basic understanding of constructors, default constructors, parameterized constructors, and object creation.
+
+1. Create a class `Student` with a default constructor that prints “Object Created”.
+2. Create a class `Car` with a parameterized constructor (model, year). Print the values....
+3. Write a class `Book` with two constructors: one default and one parameterized.
+4. Create a class `Person` where the constructor initializes name and age.
+5. Create a class `Employee` where the constructor sets salary and prints it.
+6. Write a class with a constructor that increments a static counter each time an object is created........
+7. Create a class `Rectangle` with a constructor that sets length and width.
+8. Create a constructor that takes no arguments but sets default values manually.
+9. Create a constructor that takes one argument and assigns it to a class variable.
+10. Make a class `Laptop` that has brand and price using a constructor.
+11. Show that if you do not declare any constructor, Java creates a default one.
+12. Demonstrate how to pass values to a constructor during object creation.
+13. Create a class `Point` with x and y coordinates using a constructor.
+14. Write a constructor that calculates and prints the square of a number.
+15. Create a `Movie` class where the constructor initializes title and rating.
+16. Create a `Mobile` class where the constructor prints a message when an object is created.
+17. Write a program to show constructor execution order when multiple objects are created.
+18. Create a constructor that accepts a boolean and prints a message accordingly.
+19. Write a constructor that initializes an array of integers.
+20. Create a class `Bike` with a constructor that sets the speed.
+
+---
+
+# ✅ **Level 2: Intermediate (20 Questions)**
+
+Understanding constructor overloading, calling constructors, passing objects, and immutability.
+
+1. Create a class `Complex` with two constructors: one default and one that sets real & imaginary parts.
+2. Create a class `Box` with overloaded constructors for cube (1 value) and cuboid (3 values).
+3. Demonstrate constructor chaining using `this()`.
+4. Write a constructor that copies values from another object (copy constructor).
+5. Create a `BankAccount` class with constructor overloading (account number only, name & number, full details).......
+6. Use a constructor to validate and set age (e.g., age cannot be negative).
+7. Create a `Circle` class where radius is read from the constructor and area is computed......
+8. Create a constructor that throws an exception if an invalid value is passed.......
+9. Write a constructor that accepts a `String` and processes it (e.g., counts vowels).
+10. Create an `ImmutablePerson` class using final variables and a constructor.
+11. Create a class with a constructor that takes another class object as argument.
+12. Create nested class objects using constructors.
+13. Write a constructor that loads student marks from an array.
+14. Show how constructor overloading can reduce redundancy.
+15. Write a program using constructors to model a shopping item (name, price, quantity).
+16. Create a constructor that converts temperature from Celsius to Fahrenheit.
+17. Create a constructor that initializes a 2D matrix.......
+18. Demonstrate how to call one constructor from another using `this()`.
+19. Create a class with private constructor and use static method to create objects (Factory Pattern).
+20. Write a copy constructor that performs a deep copy of an array.
+
+---
+
+# ✅ **Level 3: Advanced (20 Questions)**
+
+Advanced constructor usage: inheritance, super keyword, abstract classes, final classes, static blocks, and patterns.
+
+1. Create a base class `Animal` and a subclass `Dog` showing constructor calling order using `super()`.
+2. Create a multi-level inheritance chain and demonstrate constructor execution order.
+3. Create an abstract class with a constructor and a subclass implementing it.
+4. Write a constructor in subclass that passes values to superclass constructor.
+5. Show constructor overloading across inheritance (parent and child).
+6. Create a class where constructor initializes resources and a method closes them.
+7. Implement a Singleton class using private constructor.
+8. Create a builder pattern using multiple inner constructors.
+9. Use a constructor in a final class and show it cannot be inherited.
+10. Show how static blocks run before constructors in object creation.
+11. Create a class where constructor initializes a database connection (mock logic).
+12. Demonstrate constructor injection (dependency injection via constructor).
+13. Create a class with a protected constructor and extend it in another package.
+14. Write a constructor that prevents creation of more than N objects.
+15. Demonstrate enum constructors.
+16. Create a constructor that validates immutable fields and throws custom exception.
+17. Use constructor chaining in multi-level inheritance with parameterized constructors.
+18. Create a constructor in a generic class (e.g., `Container<T>`).
+19. Create a class with multiple constructors performing different calculations.
+20. Create a class hierarchy where super constructors call abstract methods (understanding caveats).
+
+---
+
+# 🎯 Want these in **PDF**, organized worksheets, or with **solutions**?
+
+I can generate:
+
+✔ Full solutions
+✔ Code examples
+✔ PDF workbook
+✔ Practice assignments with answers
+
+Just tell me!
