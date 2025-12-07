@@ -11,9 +11,9 @@ public class Program{
         System.out.println("Enter the breadth ");
         double breadth =input.nextDouble();
 
- Rectangle rectangle =new Rectangle(length,breadth);
- rectangle.areaOfRectangle();
- rectangle.perimeterOfRectangle();
+        Rectangle rectangle =new Rectangle(length,breadth);
+        rectangle.areaOfRectangle();
+        rectangle.perimeterOfRectangle();
 
     }
 }
