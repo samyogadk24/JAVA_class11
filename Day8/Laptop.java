@@ -1,3 +1,4 @@
+//Make a class `Laptop` that has brand and price using a constructor.
 public class Laptop {
     String brand;
     double price;

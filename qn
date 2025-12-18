@@ -1,0 +1,45 @@
+2️⃣ Rock, Paper, Scissors
+
+Concept:
+Player chooses Rock/Paper/Scissors, computer chooses randomly, winner is decided.
+
+What you practice:
+
+switch-case
+
+Random numbers
+
+String comparison
+
+Features you can add:
+
+Best of 3 rounds
+
+Score tracking
+
+Replay option
+
+
+2. Rock, Paper, Scissors
+
+Concept:
+Player chooses Rock, Paper, or Scissors; computer chooses randomly.
+
+Why it’s good:
+
+Fast and fun
+
+Introduces enums or constants
+
+Core features:
+
+Menu-driven input
+
+Random computer choice
+
+Win/lose/draw logic
+
+Score tracking
+
+Example twist:
+Play best of 3 or best of 5.
